@@ -26,12 +26,12 @@ When brought back online:
   * Offline entries should be added to tracker.
 
 ## Installation
-Repository at: https://github.com/imAnonAmi/Budget-Tracker/
+Repository at: repo link
 
-Deployed live at: https://obscure-stream-26130.herokuapp.com/
+Deployed live at: heroku link
 
 ## Usage
-1. Navigate to https://obscure-stream-26130.herokuapp.com/
+1. Navigate to heroku link
 2. Add withdrawals and deposits as desired
 3. Right click, and choose Inspect. Navigate to Application, and from there to Service Workers.
 4. Set service worker to offline, and reload. You are now working offline.
@@ -46,13 +46,11 @@ Deployed live at: https://obscure-stream-26130.herokuapp.com/
 * Expired dependencies in Trilogy code
 * Bad data in provided code that required a workaround of trashing the package-lock.json in order to deploy to Heroku.
 
-## License
 
-Front end files were provided by:© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
 ## Contributors
 
-Andrew McIntire - https://github.com/imAnonAmi
+Joseph Blake - githublink
 
 ## Tests
 
