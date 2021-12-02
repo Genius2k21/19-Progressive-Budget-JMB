@@ -26,7 +26,7 @@ When brought back online:
   * Offline entries should be added to tracker.
 
 ## Installation
-Repository at: repo link
+Repository at: https://github.com/Genius2k21/19-Progressive-Budget-JMB
 
 Deployed live at: heroku link
 
