@@ -1,14 +1,5 @@
 # Assignment 18 - Progressive Budget App
 
-![GitHub followers](https://img.shields.io/github/followers/KEDuran?logo=GitHub&style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/KEDuran/employee_directory?color=orange&logo=GitHub&style=flat)
-![npm](https://img.shields.io/npm/v/express?color=purple&label=express&logo=NPM&style=flat)
-![npm](https://img.shields.io/npm/v/mongoose?color=red&label=mongoose&logo=NPM&style=flat)
-![npm](https://img.shields.io/npm/v/morgan?color=light&label=morgan&logo=NPM&style=flat)
-![npm](https://img.shields.io/npm/v/compression?color=yellow&label=compression&logo=NPM&style=flat)
-![npm](https://img.shields.io/npm/v/lite-server?color=lightblue&label=lite-server&logo=NPM&style=flat)
-
-
 ---
 
 ## Disclaimer for Assignment
