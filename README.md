@@ -16,7 +16,7 @@
 
 The purpose of this assignment is to create a progressive budget application that allows users to manage financial activity while online or offline.
 
-Overall, the user should be able to add expenses and deposits to their budget with or without an internet connection. When entering transactions offline, they should populate the total when brought back online.
+The user will be able to add expenses and deposits to their budget with or without an internet connection. When entering transactions offline, tusers will populate the total when brought back online.
 
 The list below outlines the main functionality for this application:
 
