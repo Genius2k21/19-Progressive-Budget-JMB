@@ -42,9 +42,9 @@ _Return to TOC - [Table of Contents](#table-of-contents)_
 
 ## Links for Submission Items
 
-Link to GitHub Repo - [https://github.com/KEDuran/progressive-budget-app](https://github.com/KEDuran/progressive-budget-app)
+Link to GitHub Repo - https://github.com/Genius2k21/19-Progressive-Budget-JMB
 
-Link to deployed application on Heroku - [https://progessive-budget-app-ked.herokuapp.com/](https://progessive-budget-app-ked.herokuapp.com/)
+Link to deployed application on Heroku - https://budgettrackerjmb.herokuapp.com
 
 _Return to TOC - [Table of Contents](#table-of-contents)_
 
@@ -94,10 +94,5 @@ _Return to TOC - [Table of Contents](#table-of-contents)_
 
 ---
 
-## Final Output
-
-I have included a brief demo recording to show the application's functionality and responsiveness. The web application's deployed link on Heroku is the source URL for this recording.
-
-Link to Demo Recording - [https://drive.google.com/file/d/1BTCK3jFRQDflhdMOn8br_meLAzB5cylc/view?usp=sharing](https://drive.google.com/file/d/1BTCK3jFRQDflhdMOn8br_meLAzB5cylc/view?usp=sharing)
 
 _Return to TOC - [Table of Contents](#table-of-contents)_
